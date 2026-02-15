@@ -2,11 +2,9 @@
 
 Dieses Repository ist nur dafür da, um Fehler und Bugs im Karlscraft-Server zu melden.
 
-Bitte lies dir alles kurz durch, bevor du etwas meldest.
-
 ---
 
-## Was hier gemeldet werden soll
+## ❓ Was hier gemeldet werden soll
 
 Melde hier nur Dinge, die **nicht richtig funktionieren**, zum Beispiel:
 
@@ -20,21 +18,7 @@ Kurz gesagt: **Alles, was eindeutig ein Fehler oder Bug ist**
 
 ---
 
-## Was hier NICHT gemeldet werden soll
-
-Bitte melde hier KEINE:
-
-- Fragen  
-- Beschwerden  
-- Vorschläge  
-- Entbannungsanfragen  
-- Spielinhalte oder Wünsche  
-
-Diese gehören nicht hierher.
-
----
-
-## So meldest du einen Bug
+## 📝 So meldest du einen Bug
 
 1. Klicke oben auf **`⊙ Issues`**
 2. Klicke auf **`New Issue`**
@@ -52,11 +36,23 @@ Je genauer deine Beschreibung ist, desto besser können wir den Fehler finden un
 
 ---
 
-## Sehr wichtig
+## ⛔ Was hier NICHT gemeldet werden soll
+
+Bitte melde hier KEINE:
+
+- Fragen  
+- Beschwerden  
+- Vorschläge  
+- Entbannungsanfragen  
+- Spielinhalte oder Wünsche  
+
+Diese gehören nicht hierher.
+
+---
+
+## ⚠ Sehr wichtig
 
 Ohne deinen Minecraft-Benutzernamen können wir den Fehler nicht nachverfolgen.
-
-Issues ohne Benutzernamen werden ignoriert.
 
 ---
 
